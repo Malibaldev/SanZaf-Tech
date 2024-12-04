@@ -1,0 +1,23 @@
+.mainheader {
+  display: flex;
+  justify-content: space-around;
+  align-items: right;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+   text-align: center;
+  font-size: 20px;
+  padding: 14px 18px;
+}
+
+.mainheader .logo img {
+  width: 450px;
+  height: 100px;
+  padding-right: 150px;
+}
+#b{
+text-align:right;
+height: 82;
+}
